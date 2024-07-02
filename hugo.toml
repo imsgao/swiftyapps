@@ -1,0 +1,32 @@
+baseURL = 'https://logcat.app/'
+languageCode = 'en-us'
+title = "Logcat"
+theme = 'hugo-PaperMod'
+
+[params]
+subtitle = "Product built by SwiftyStudio"
+
+[params.contact]
+email = 'feedback@swifty.studio'
+
+[params.homeInfoParams]
+Title = "Apps Dev & Release Blog"
+Content = """>
+👋 Welcome to the product page of Swifty Studio!
+- Feel free to show your support by sharing with your friends and social media .
+- 
+- [Wallpapers](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3): Download wallpaper for your iPhone.
+- [Snapify](https://apps.apple.com/us/app/snapify/id6450610050): Photo and video collector.
+- [Bullet Journal](https://apps.apple.com/app/id6475782771): Simple and easy-to-use note-taking app.
+"""
+
+[[params.socialIcons]]
+name = "applemusic"
+url = "https://apps.apple.com/de/developer/mizzy-inc/id1454074168"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:feedback@swifty.studio"
+
+
+
