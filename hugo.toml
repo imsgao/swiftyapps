@@ -1,10 +1,12 @@
 baseURL = 'https://logcat.app/'
 languageCode = 'en-us'
-title = "Logcat"
+title = "logcat"
 theme = 'hugo-PaperMod'
+enableSearch = true
 
 [params]
 subtitle = "Product built by SwiftyStudio"
+description = "Swifty Studio's Product Blog. Wallpapers, Snapify, Bullet Journal iOS Apps."
 
 [params.contact]
 email = 'feedback@swifty.studio'
