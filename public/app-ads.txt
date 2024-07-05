@@ -1,4 +1,5 @@
 google.com, pub-8692322681990923, DIRECT, f08c47fec0942fa0
+facebook.com, 274026339094157, DIRECT, c3e20eee3f780d68
 
 #Updated 13th June
 #Appodeal
