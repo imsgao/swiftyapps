@@ -1,19 +1,7 @@
-
-#Updated 13th June
-#Appodeal
-appodeal.com, 245807, DIRECT
-#BidMachine
-bidmachine.io, 245807, DIRECT
-#AdMob
-#Replace the Publisher_ID below with your Admob Publisher ID
 google.com, pub-8692322681990923, DIRECT, f08c47fec0942fa0
-#Meta-Audience
-#Replace the Business_ID below with your Meta Business ID
 facebook.com, 274026339094157, RESELLER, c3e20eee3f780d68
-#Add other networks if applicable
-
-
-#Resellers
+appodeal.com, 245807, DIRECT
+bidmachine.io, 245807, DIRECT
 9dotsmedia.com,122262,RESELLER,45ff185b4c4e857d
 acexchange.co.kr,1562884725,RESELLER
 adbility-media.com,187,RESELLER
